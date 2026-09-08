@@ -41,11 +41,11 @@ const dict = {
       name: 'Mohamed Ashraf\nAbdul Aziz',
       tagline: 'Building software with code, context, and purpose.',
       intro:
-        'A backend developer who thinks beyond the code — pairing engineering discipline with a Business Information Systems background to build systems that actually solve the right problems.',
+        'A backend developer who thinks beyond the code — pairing development discipline with a Business Information Systems background to build systems that actually solve the right problems.',
       ctaWork: 'View work',
       ctaContact: 'Get in touch',
       triad: ['code', 'context', 'purpose'],
-      engineering: 'Engineering',
+      development: 'Development',
       business: 'Business',
       caption: 'Systems thinker · Cairo-based',
       scroll: 'Scroll',
@@ -370,7 +370,7 @@ const dict = {
         { k: 'هندسة الخلفية', items: ['C#', '.NET', 'ASP.NET Core', 'REST APIs', 'Web API'] },
         { k: 'البيانات', items: ['SQL Server', 'EF Core', 'تصميم قواعد البيانات', 'نمذجة البيانات'] },
         { k: 'الأساسيات', items: ['البرمجة الكائنية', 'الكود النظيف', 'معمارية البرمجيات', 'حلّ المشكلات'] },
-        { k: 'الأدوات والممارسة', items: ['Git', 'GitHub', 'Postman', 'تحليل المتطلّبات'] },
+        { k: 'الأدوات والممارسة', items: ['Git', 'GitHub','VS Code','MS Office','تحليل المتطلّبات'] },
         { k: 'الأعمال والأنظمة', items: ['التفكير النُّظُمي', 'رسم سير العمل', 'منطق الأعمال', 'أساس نظم المعلومات'] },
       ],
     },
@@ -387,7 +387,7 @@ const dict = {
         },
         {
           tag: 'التركيز',
-          k: 'هندسة الخلفية',
+          k: 'تطوير الخلفية',
           v: 'التزمت بمنظومة ‏.NET: لغة C#، وASP.NET Core، والواجهات البرمجية، والبيانات العلائقية.',
         },
         {
