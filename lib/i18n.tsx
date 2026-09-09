@@ -45,9 +45,9 @@ const dict = {
       ctaWork: 'View work',
       ctaContact: 'Get in touch',
       triad: ['code', 'context', 'purpose'],
-      development: 'Development',
+      development: '.NET Developer',
       business: 'Business',
-      caption: 'Systems thinker · Cairo-based',
+      caption: 'Software Developer · Minya - Egypt',
       scroll: 'Scroll',
     },
     about: {
