@@ -3,14 +3,10 @@
 // AssetX is your real landing page and is already set correctly.
 // -----------------------------------------------------------------------------
 export const SITE = {
-  // TODO: replace with your real address
-  email: 'mohamed.ashraf@example.com',
-  // TODO: replace with your real GitHub profile URL
-  github: 'https://github.com',
-  githubHandle: 'github.com/your-handle',
-  // TODO: replace with your real LinkedIn profile URL
-  linkedin: 'https://linkedin.com',
-  linkedinHandle: 'linkedin.com/in/your-handle',
-  // Real AssetX landing page
+  email: 'mo.ashraf.abdulaziz@gmail.com',
+  github: 'https://github.com/moashrafabdulaziz-lab',
+  githubHandle: 'github.com/moashrafabdulaziz-lab',
+  linkedin: 'https://www.linkedin.com/in/mohamed-ashraf-abdul-aziz-12a349384',
+  linkedinHandle: 'linkedin.com/in/mohamed-ashraf-abdul-aziz-12a349384',
   assetx: 'https://assetx-eight.vercel.app',
 } as const
